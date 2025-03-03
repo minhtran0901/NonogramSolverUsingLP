@@ -19,7 +19,7 @@ python src.py
 ```
 
 ### Choose difficulty of the puzzle
-- **"Easy"**: A 5 x 5 puzzle
+- **"Easy"**: 5 x 5 puzzle
 - **"Hard"**: 10 x 10 puzzle
 - **"Exit"**: exit the program
 
